@@ -1,6 +1,8 @@
-# Lovable MCP Server
+# Unofficial Lovable MCP Server
 
-A specialized Model Context Protocol (MCP) server that provides real-time analysis of Lovable-generated projects for AI tools like Claude Desktop. Transform manual project analysis into instant AI understanding.
+An **unofficial** Model Context Protocol (MCP) server that provides real-time analysis of Lovable-generated projects for AI tools like Claude Desktop. This is a community-built tool to enhance development workflow with Lovable projects.
+
+> **⚠️ Disclaimer**: This is an unofficial, community-developed tool and is not affiliated with or endorsed by Lovable. It's an independent project created to enhance the development experience with Lovable-generated projects.
 
 ## 🚀 Overview
 
@@ -222,7 +224,14 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) - The protocol this server implements
 - [Claude Desktop](https://claude.ai/desktop) - AI assistant that uses MCP servers
-- [Lovable](https://lovable.dev/) - The platform this server analyzes
+- [Lovable](https://lovable.dev/) - The platform this server analyzes (not affiliated)
+
+## ⚠️ Important Notes
+
+- This tool is **unofficial** and **community-developed**
+- **Not affiliated** with or endorsed by Lovable, Claude, or Anthropic
+- Created for educational and development productivity purposes
+- Use at your own discretion and follow all relevant terms of service
 
 ## 🆘 Troubleshooting
 
