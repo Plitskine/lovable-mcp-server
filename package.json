@@ -8,9 +8,7 @@
     "lovable-mcp-server": "./enhanced-simple-server.js"
   },
   "scripts": {
-    "start": "node enhanced-simple-server.js",
-    "build": "npm run test",
-    "prepack": "npm run test"
+    "start": "node enhanced-simple-server.js"
   },
   "keywords": [
     "mcp",
