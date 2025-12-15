@@ -9,9 +9,6 @@
   },
   "scripts": {
     "start": "node enhanced-simple-server.js",
-    "dev": "node enhanced-simple-server.js --project-path=zen-task-quest",
-    "test": "node test-enhanced-simple.cjs",
-    "test-database": "node test-database-schema.cjs",
     "build": "npm run test",
     "prepack": "npm run test"
   },
@@ -33,15 +30,15 @@
     "community",
     "development-tools"
   ],
-  "author": "Enhanced Development Team",
+  "author": "Plitskine",
   "license": "MIT",
-  "homepage": "https://github.com/hiromima/lovable-mcp-server",
+  "homepage": "https://github.com/plitskine/lovable-mcp-server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hiromima/lovable-mcp-server.git"
+    "url": "https://github.com/plitskine/lovable-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/hiromima/lovable-mcp-server/issues"
+    "url": "https://github.com/plitskine/lovable-mcp-server/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.5.0",
